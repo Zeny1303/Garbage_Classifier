@@ -58,7 +58,7 @@ st.sidebar.title("🛠️ Settings")
 st.sidebar.button(current["button_face"], on_click=change_theme)
 
 # ---------------------- Load the Model ----------------------
-model = load_model("garbage_classifier_model.h5")
+model = load_model("garbage_classifier_model.h5", compile=False)
 class_names = ['non_recyclable', 'organic', 'recyclable']
 
 # ---------------------- Load Lottie Animation ----------------------
