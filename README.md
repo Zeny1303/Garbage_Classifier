@@ -7,7 +7,7 @@ A Streamlit-based web application for classifying garbage images using a pre-tra
 - **Model**: A convolutional neural network (CNN) based on the Xception architecture, trained using transfer learning for garbage classification (12 categories).
 - **Frontend**: Built with Streamlit for an interactive user interface.
 - **Notebook**: The Jupyter notebook (`garbage-classification-transfer-learning.ipynb`) is rendered as HTML for transparency and reproducibility.
-- **Current Date and Time**: 07:00 PM IST, Sunday, October 05, 2025.
+
 
 ## Features
 
