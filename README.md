@@ -13,7 +13,7 @@ The system is built using a **pretrained Xception model**, optimized using **Ten
 ---
 
 ## 🏗️ System Architecture
-
+![Architecture Diagram](./architecture1.jpg)
 The proposed system follows a **layered and modular architecture**, ensuring scalability, maintainability, and deployment readiness.
 
 ### Architecture Layers:
