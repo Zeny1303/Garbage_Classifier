@@ -130,9 +130,8 @@ The proposed system follows a **layered and modular architecture**, ensuring sca
 ## 👨‍💻 Authors
 
 - Antriksh Bhadauriya
-- Dr. Usha Sharma
 - Vaibhav Tiwari
-- Sneha Kashyap
+- Sneha 
 - Ritesh Tiwari
 
 Department of Computer Science & Engineering (Data Science)  
